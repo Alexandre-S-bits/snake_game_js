@@ -1,3 +1,3 @@
-#Snake Game
+# Snake Game
 
 Desenvolvido com HTML, CSS e JavaScript
